@@ -6,7 +6,7 @@ import java.util.Scanner;
 // minha resolução
 public class _1009 {
     // minha resolução
-    public static void main2(String[] args) {
+    public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
 
         String nV;
@@ -25,7 +25,7 @@ public class _1009 {
     }
 
     // resolução aceita
-    public static void main(String[] args) throws IOException {
+    public static void main2(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
         String nome = leitor.next();
         double salarioFixo = leitor.nextDouble();
