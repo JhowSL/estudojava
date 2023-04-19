@@ -1,6 +1,6 @@
 package com.br.estudo.beecrowd;
 
-import ch.qos.logback.core.net.SyslogOutputStream;
+
 
 import java.util.Scanner;
 

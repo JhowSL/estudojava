@@ -1,4 +1,4 @@
-package com.br.estduos.estudojava;
+package com.br.estudos.estudojava;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
